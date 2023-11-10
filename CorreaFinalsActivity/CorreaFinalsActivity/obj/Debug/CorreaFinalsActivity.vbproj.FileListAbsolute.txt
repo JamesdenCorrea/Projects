@@ -1,0 +1,13 @@
+C:\Users\Jamesden Correa\source\repos\CorreaFinalsActivity\CorreaFinalsActivity\bin\Debug\CorreaFinalsActivity.exe.config
+C:\Users\Jamesden Correa\source\repos\CorreaFinalsActivity\CorreaFinalsActivity\bin\Debug\CorreaFinalsActivity.exe
+C:\Users\Jamesden Correa\source\repos\CorreaFinalsActivity\CorreaFinalsActivity\bin\Debug\CorreaFinalsActivity.pdb
+C:\Users\Jamesden Correa\source\repos\CorreaFinalsActivity\CorreaFinalsActivity\bin\Debug\CorreaFinalsActivity.xml
+C:\Users\Jamesden Correa\source\repos\CorreaFinalsActivity\CorreaFinalsActivity\obj\Debug\CorreaFinalsActivity.vbproj.AssemblyReference.cache
+C:\Users\Jamesden Correa\source\repos\CorreaFinalsActivity\CorreaFinalsActivity\obj\Debug\CorreaFinalsActivity.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Jamesden Correa\source\repos\CorreaFinalsActivity\CorreaFinalsActivity\obj\Debug\CorreaFinalsActivity.Form1.resources
+C:\Users\Jamesden Correa\source\repos\CorreaFinalsActivity\CorreaFinalsActivity\obj\Debug\CorreaFinalsActivity.Resources.resources
+C:\Users\Jamesden Correa\source\repos\CorreaFinalsActivity\CorreaFinalsActivity\obj\Debug\CorreaFinalsActivity.vbproj.GenerateResource.cache
+C:\Users\Jamesden Correa\source\repos\CorreaFinalsActivity\CorreaFinalsActivity\obj\Debug\CorreaFinalsActivity.vbproj.CoreCompileInputs.cache
+C:\Users\Jamesden Correa\source\repos\CorreaFinalsActivity\CorreaFinalsActivity\obj\Debug\CorreaFinalsActivity.exe
+C:\Users\Jamesden Correa\source\repos\CorreaFinalsActivity\CorreaFinalsActivity\obj\Debug\CorreaFinalsActivity.xml
+C:\Users\Jamesden Correa\source\repos\CorreaFinalsActivity\CorreaFinalsActivity\obj\Debug\CorreaFinalsActivity.pdb

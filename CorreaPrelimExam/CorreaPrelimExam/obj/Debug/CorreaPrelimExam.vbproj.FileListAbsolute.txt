@@ -1,0 +1,13 @@
+C:\Users\Jamesden Correa\source\repos\CorreaPrelimExam\CorreaPrelimExam\bin\Debug\CorreaPrelimExam.exe.config
+C:\Users\Jamesden Correa\source\repos\CorreaPrelimExam\CorreaPrelimExam\bin\Debug\CorreaPrelimExam.exe
+C:\Users\Jamesden Correa\source\repos\CorreaPrelimExam\CorreaPrelimExam\bin\Debug\CorreaPrelimExam.pdb
+C:\Users\Jamesden Correa\source\repos\CorreaPrelimExam\CorreaPrelimExam\bin\Debug\CorreaPrelimExam.xml
+C:\Users\Jamesden Correa\source\repos\CorreaPrelimExam\CorreaPrelimExam\obj\Debug\CorreaPrelimExam.vbproj.AssemblyReference.cache
+C:\Users\Jamesden Correa\source\repos\CorreaPrelimExam\CorreaPrelimExam\obj\Debug\CorreaPrelimExam.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Jamesden Correa\source\repos\CorreaPrelimExam\CorreaPrelimExam\obj\Debug\CorreaPrelimExam.Form1.resources
+C:\Users\Jamesden Correa\source\repos\CorreaPrelimExam\CorreaPrelimExam\obj\Debug\CorreaPrelimExam.Resources.resources
+C:\Users\Jamesden Correa\source\repos\CorreaPrelimExam\CorreaPrelimExam\obj\Debug\CorreaPrelimExam.vbproj.GenerateResource.cache
+C:\Users\Jamesden Correa\source\repos\CorreaPrelimExam\CorreaPrelimExam\obj\Debug\CorreaPrelimExam.vbproj.CoreCompileInputs.cache
+C:\Users\Jamesden Correa\source\repos\CorreaPrelimExam\CorreaPrelimExam\obj\Debug\CorreaPrelimExam.exe
+C:\Users\Jamesden Correa\source\repos\CorreaPrelimExam\CorreaPrelimExam\obj\Debug\CorreaPrelimExam.xml
+C:\Users\Jamesden Correa\source\repos\CorreaPrelimExam\CorreaPrelimExam\obj\Debug\CorreaPrelimExam.pdb

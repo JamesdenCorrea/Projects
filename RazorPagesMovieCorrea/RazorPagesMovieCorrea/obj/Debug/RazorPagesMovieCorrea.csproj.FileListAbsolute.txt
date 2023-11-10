@@ -1,0 +1,7 @@
+C:\Users\Jamesden Correa\source\repos\RazorPagesMovieCorrea\RazorPagesMovieCorrea\bin\Debug\RazorPagesMovieCorrea.exe.config
+C:\Users\Jamesden Correa\source\repos\RazorPagesMovieCorrea\RazorPagesMovieCorrea\bin\Debug\RazorPagesMovieCorrea.exe
+C:\Users\Jamesden Correa\source\repos\RazorPagesMovieCorrea\RazorPagesMovieCorrea\bin\Debug\RazorPagesMovieCorrea.pdb
+C:\Users\Jamesden Correa\source\repos\RazorPagesMovieCorrea\RazorPagesMovieCorrea\obj\Debug\RazorPagesMovieCorrea.csproj.AssemblyReference.cache
+C:\Users\Jamesden Correa\source\repos\RazorPagesMovieCorrea\RazorPagesMovieCorrea\obj\Debug\RazorPagesMovieCorrea.csproj.CoreCompileInputs.cache
+C:\Users\Jamesden Correa\source\repos\RazorPagesMovieCorrea\RazorPagesMovieCorrea\obj\Debug\RazorPagesMovieCorrea.exe
+C:\Users\Jamesden Correa\source\repos\RazorPagesMovieCorrea\RazorPagesMovieCorrea\obj\Debug\RazorPagesMovieCorrea.pdb

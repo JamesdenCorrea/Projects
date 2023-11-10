@@ -1,0 +1,13 @@
+C:\Users\Jamesden Correa\source\repos\Correa&Palma\Correa&Palma\bin\Debug\Correa&Palma.exe.config
+C:\Users\Jamesden Correa\source\repos\Correa&Palma\Correa&Palma\bin\Debug\Correa&Palma.exe
+C:\Users\Jamesden Correa\source\repos\Correa&Palma\Correa&Palma\bin\Debug\Correa&Palma.pdb
+C:\Users\Jamesden Correa\source\repos\Correa&Palma\Correa&Palma\bin\Debug\Correa&Palma.xml
+C:\Users\Jamesden Correa\source\repos\Correa&Palma\Correa&Palma\obj\Debug\Correa&Palma.vbproj.AssemblyReference.cache
+C:\Users\Jamesden Correa\source\repos\Correa&Palma\Correa&Palma\obj\Debug\Correa&Palma.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Jamesden Correa\source\repos\Correa&Palma\Correa&Palma\obj\Debug\Correa_Palma.Form1.resources
+C:\Users\Jamesden Correa\source\repos\Correa&Palma\Correa&Palma\obj\Debug\Correa_Palma.Resources.resources
+C:\Users\Jamesden Correa\source\repos\Correa&Palma\Correa&Palma\obj\Debug\Correa&Palma.vbproj.GenerateResource.cache
+C:\Users\Jamesden Correa\source\repos\Correa&Palma\Correa&Palma\obj\Debug\Correa&Palma.vbproj.CoreCompileInputs.cache
+C:\Users\Jamesden Correa\source\repos\Correa&Palma\Correa&Palma\obj\Debug\Correa&Palma.exe
+C:\Users\Jamesden Correa\source\repos\Correa&Palma\Correa&Palma\obj\Debug\Correa&Palma.xml
+C:\Users\Jamesden Correa\source\repos\Correa&Palma\Correa&Palma\obj\Debug\Correa&Palma.pdb

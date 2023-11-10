@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorreaTodoApp1", "CorreaTodoApp1\CorreaTodoApp1.csproj", "{45879DC8-B84C-4295-9D46-F20F11877DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45879DC8-B84C-4295-9D46-F20F11877DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45879DC8-B84C-4295-9D46-F20F11877DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45879DC8-B84C-4295-9D46-F20F11877DAA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{45879DC8-B84C-4295-9D46-F20F11877DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45879DC8-B84C-4295-9D46-F20F11877DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45879DC8-B84C-4295-9D46-F20F11877DAA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C2B48F2-D15D-4307-ABC2-37CA38DF0C60}
+	EndGlobalSection
+EndGlobal

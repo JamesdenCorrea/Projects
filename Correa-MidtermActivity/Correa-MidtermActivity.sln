@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Correa-MidtermActivity", "Correa-MidtermActivity\Correa-MidtermActivity.vbproj", "{2D88E9BD-73EF-473F-9846-124160F18C9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D88E9BD-73EF-473F-9846-124160F18C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D88E9BD-73EF-473F-9846-124160F18C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D88E9BD-73EF-473F-9846-124160F18C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D88E9BD-73EF-473F-9846-124160F18C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E921A1A-F4A2-45B5-AEF1-A7A6ACC852AA}
+	EndGlobalSection
+EndGlobal

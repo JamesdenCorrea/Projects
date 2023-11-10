@@ -1,0 +1,13 @@
+C:\Users\Jamesden Correa\source\repos\Correa\Correa\bin\Debug\Correa.exe.config
+C:\Users\Jamesden Correa\source\repos\Correa\Correa\bin\Debug\Correa.exe
+C:\Users\Jamesden Correa\source\repos\Correa\Correa\bin\Debug\Correa.pdb
+C:\Users\Jamesden Correa\source\repos\Correa\Correa\bin\Debug\Correa.xml
+C:\Users\Jamesden Correa\source\repos\Correa\Correa\obj\Debug\Correa.vbproj.AssemblyReference.cache
+C:\Users\Jamesden Correa\source\repos\Correa\Correa\obj\Debug\Correa.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Jamesden Correa\source\repos\Correa\Correa\obj\Debug\Correa.Form1.resources
+C:\Users\Jamesden Correa\source\repos\Correa\Correa\obj\Debug\Correa.Resources.resources
+C:\Users\Jamesden Correa\source\repos\Correa\Correa\obj\Debug\Correa.vbproj.GenerateResource.cache
+C:\Users\Jamesden Correa\source\repos\Correa\Correa\obj\Debug\Correa.vbproj.CoreCompileInputs.cache
+C:\Users\Jamesden Correa\source\repos\Correa\Correa\obj\Debug\Correa.exe
+C:\Users\Jamesden Correa\source\repos\Correa\Correa\obj\Debug\Correa.xml
+C:\Users\Jamesden Correa\source\repos\Correa\Correa\obj\Debug\Correa.pdb
